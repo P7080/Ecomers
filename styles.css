@@ -244,6 +244,7 @@ body{
     position: absolute;
     bottom: 20px;
     right: 10px;
+    padding: 3.5px;
  }
  /*  Banner  CSS */
  #banner{
@@ -628,6 +629,9 @@ footer .copyright{
 }
 
 /*  contact page css  */
+.about-header{
+    background-color: #465b52;
+}
 #contact-details{
     display: flex;
     align-items: center;
